@@ -18,7 +18,7 @@ function Attribution() {
       >
         Frontend Mentor
       </a>
-      . Coded by <a href="https://github.com/defydef">&nbsp;Olasunkanmi Olanrewaju A.</a>.
+      . Coded by <a href="https://github.com/Olasunkanmi001/Dictionary.git">&nbsp;Olasunkanmi Olanrewaju A.</a>.
     </footer>
   );
 }
